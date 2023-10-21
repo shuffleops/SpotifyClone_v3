@@ -1,0 +1,5 @@
+// FOR CODING
+
+export const systemConditions5 = [
+    { "role": "system", "content": "Show ONLY THE CODE" },
+]
