@@ -1,9 +1,9 @@
 
-# Next Spotify
+# Spotify Clone
 
 <img src="https://cdn-images-1.medium.com/max/1000/0*mr1yE7_hsk_3mquJ" alt="sample intro image" width="700" />
 
-Next Spotify is a Spotify clone built using Next.js and TailwindCSS. Users can log in with their Spotify account and view the playlists, artists, and albums followed by them.
+Spotify Clone is built using Next.js and TailwindCSS. Users can log in with their Spotify account and view the playlists, artists, and albums followed by them.
 
 
 <b>Update </b>: Currently users cannot log in to the demo link. The application would work in the local system.
